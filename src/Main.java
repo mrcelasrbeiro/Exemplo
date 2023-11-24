@@ -10,7 +10,7 @@ public class Main {
 
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
-                System.out.println("Insira a média do aluno: [0-10]");
+                System.out.println("Insira a média da marcelaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa: [0-10]");
                 media = Double.parseDouble(input.nextLine());
                 System.out.println("Insira as faltas do aluno: [0-100]");
                 faltas = Integer.parseInt(input.nextLine());
