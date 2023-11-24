@@ -31,7 +31,7 @@ public class Main {
                 System.out.println("Este aluno ficará sem férias");
             }
             else if (media>=5.0&& faltas<25 && !comportamento) {
-                System.out.println("Chamaremos este aluno para conversar");
+                System.out.println("Chamaremos este aluno para conversar naoooooooooo");
             } else {
                 System.out.println("Este aluno foi reprovado eeeeeeeeeeeeh");
             }
