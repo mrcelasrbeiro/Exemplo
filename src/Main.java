@@ -33,7 +33,7 @@ public class Main {
             else if (media>=5.0&& faltas<25 && !comportamento) {
                 System.out.println("Chamaremos este aluno para conversar");
             } else {
-                System.out.println("Este aluno foi reprovado");
+                System.out.println("Este aluno foi reprovado eeeeeeeeeeeeh");
             }
             System.out.println("Digite sair para encerrar ou qualquer tecla para executar novamente");
             opcao=input.nextLine();
